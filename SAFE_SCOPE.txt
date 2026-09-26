@@ -1,0 +1,22 @@
+WH AUTO 2.0 SAFE SCOPE
+
+READ / MONITOR:
+- vehicle telemetry exposed to the app
+- charging status
+- energy/trip database
+- optional vehicle location
+- weather
+- OpenStreetMap display
+- local API
+- outbound Cloudflare telemetry
+- mobile parked-vehicle monitoring
+
+NOT IMPLEMENTED:
+- door lock/unlock
+- windows control
+- HVAC control
+- ignition/start
+- motion controls
+- CAN writes
+- instrument-cluster injection
+- Android/vehicle security bypass

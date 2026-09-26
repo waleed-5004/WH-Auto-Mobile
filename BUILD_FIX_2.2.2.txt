@@ -1,0 +1,5 @@
+WH Auto 2.2.2
+Fixed the car-agent compile error shown in Android Studio:
+Too many arguments for FinalDiagnosticPage.
+Detected FinalDiagnosticPage parameters: ['status']
+Updated route arguments: ['status']

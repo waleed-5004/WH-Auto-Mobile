@@ -1,0 +1,11 @@
+WH AUTO CLOUD SETTINGS
+
+Telemetry URL:
+https://wh-auto-cloud.waleed5004.workers.dev/api/bydmate/telemetry
+
+Home read URL:
+https://wh-auto-cloud.waleed5004.workers.dev/api/latest
+
+Set TELEMETRY_SECRET inside the car app to the same secret configured in Cloudflare.
+The route name includes "bydmate" only because this is the already-deployed generic JSON receiver.
+WH Auto 2.0 does not require BYDMate.
